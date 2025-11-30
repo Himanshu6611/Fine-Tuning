@@ -1,0 +1,17 @@
+# Ignore trained model files & checkpoints
+outputs/
+*.pt
+*.bin
+*.safetensors
+*.ckpt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+venv/
+
+# Logs
+*.log

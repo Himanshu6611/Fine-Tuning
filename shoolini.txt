@@ -1,0 +1,265 @@
+Shoolini University is a leading research-driven institution in India.
+It is known for its focus on innovation, entrepreneurship, and sustainability.
+Located in Solan, Himachal Pradesh, it offers programs in engineering, management, law, and life sciences.
+Students at Shoolini University benefit from world-class faculty, global collaborations, and modern infrastructure.
+The university has consistently ranked among the top private universities in India.
+Shoolini University Dataset for Fine-tuning
+
+INSTITUTIONAL INFORMATION:
+University Name: Shoolini University
+Full Name: Shoolini University of Biotechnology and Management Sciences
+Established: 2009
+Type: Private University
+Founder: Dr. P.K. Khosla
+Chancellor: Mr. Anand Bhushan
+Vice Chancellor: Prof. Atul Khosla
+Location: Bajhol, Solan, Himachal Pradesh, India
+Campus Size: 100+ acres
+Official Website: https://shooliniuniversity.com/
+Email: info@shooliniuniversity.com
+Phone: +91-9805101800
+UGC Recognized: Yes
+NAAC Accreditation: A+ Grade
+Member of: Association of Indian Universities (AIU)
+Approved by: AICTE, PCI, BCI, HPC
+
+ACADEMIC STRUCTURE:
+Faculties: Faculty of Engineering & Technology, Faculty of Management Studies, Faculty of Sciences, Faculty of Pharmaceutical Sciences, Faculty of Agricultural Sciences, Faculty of Legal Studies, Faculty of Liberal Arts, Faculty of Design, Faculty of Health Sciences, Faculty of Film & Creative Arts
+
+UNDERGRADUATE PROGRAMS:
+B.Tech Computer Science & Engineering
+B.Tech Artificial Intelligence & Data Science
+B.Tech Civil Engineering
+B.Tech Mechanical Engineering
+B.Tech Electrical Engineering
+B.Tech Biotechnology
+B.Tech Food Technology
+B.Tech Electronics & Communication Engineering
+B.Sc Biotechnology
+B.Sc Microbiology
+B.Sc Physics
+B.Sc Chemistry
+B.Sc Agriculture
+BBA
+B.Com
+B.Pharma
+B.Design
+B.A. LL.B
+B.Sc Nursing
+BPT Physiotherapy
+
+POSTGRADUATE PROGRAMS:
+M.Tech Computer Science
+M.Tech Artificial Intelligence
+M.Tech Structural Engineering
+M.Tech Power Systems
+M.Tech VLSI Design
+M.Tech Food Technology
+M.Tech Biotechnology
+MBA Marketing Management
+MBA Financial Management
+MBA Human Resource Management
+MBA International Business
+MBA Operations Management
+M.Sc Biotechnology
+M.Sc Microbiology
+M.Sc Physics
+M.Sc Chemistry
+M.Sc Mathematics
+M.Sc Environmental Sciences
+M.Pharma Pharmaceutics
+M.Pharma Pharmacology
+M.Pharma Pharmaceutical Chemistry
+M.Com
+MA Journalism & Mass Communication
+LL.M
+
+DOCTORAL PROGRAMS:
+Ph.D in Engineering
+Ph.D in Sciences
+Ph.D in Management
+Ph.D in Pharmaceutical Sciences
+Ph.D in Agriculture
+Ph.D in Law
+Ph.D in Humanities
+
+INFRASTRUCTURE DETAILS:
+Classrooms: 100+ Smart Classrooms
+Laboratories: 104+ State-of-the-art labs
+Library: Yogananda Library with 1,00,000+ books
+Digital Resources: 30,000+ e-journals
+Research Centers: 11 Centers of Excellence
+Sports Facilities: Milkha Singh Athletics Track, Basketball Courts, Tennis Courts, Volleyball Courts, Badminton Courts, Cricket Ground, Football Ground, Indoor Sports Complex, Swimming Pool
+Hostel Capacity: 2000+ students
+Hostel Amenities: Wi-Fi, recreational rooms, gymnasium, 24/7 security surveillance
+Other Facilities: Medical Center with ambulance, Cafeteria and food courts, Bank and ATM facilities, Post Office, Shopping Complex, Auditoriums and conference halls
+
+RESEARCH AND INNOVATION:
+Patents Filed: 1000+
+Research Papers Published: 5000+
+Citations: 50,000+
+H-index: 100+
+Research Projects: 200+
+Funding Received: ₹50+ crores
+Centers of Excellence: Centre for Biotechnology Research, Centre for Nanotechnology, Centre for Cancer Research, Centre for Renewable Energy, Centre for Food Technology, Centre for Artificial Intelligence, Centre for Environmental Studies, Centre for Drug Discovery, Centre for Material Science, Centre for Himalayan Studies
+International Collaborations: 250+ universities
+Industry Partnerships: 100+ companies
+MoUs Signed: 300+
+
+STUDENT LIFE:
+Clubs and Societies: Robotics Club, Coding Club, Biotechnology Club, Music Club, Dance Club, Drama Club, Debating Society, Literary Club, Photography Club, Adventure Club, Eco Club
+Annual Events: Utsav Cultural Fest, TechXplora Technical Fest, Annual Athletics Meet, Research Conferences
+Student Support Services: Career Counseling Center, Psychological Counseling, Placement Training, Language Lab, Skill Development Programs
+Total Students: 8500+
+Undergraduate Students: 6000+
+Postgraduate Students: 2000+
+Doctoral Students: 500+
+International Students: 350+ from 45 countries
+Gender Ratio: 52% Male, 48% Female
+
+ADMISSIONS INFORMATION:
+Admission Process: SUAT Shoolini University Admission Test
+Accepted Tests: JEE Main, CAT, MAT, GATE
+Application Mode: Online/Offline
+Selection Process: Entrance Test + Interview
+B.Tech Fees: ₹1,75,000 - ₹2,40,000 per annum
+B.Sc Fees: ₹90,000 - ₹1,25,000 per annum
+B.Pharma Fees: ₹1,50,000 per annum
+MBA Fees: ₹1,80,000 per annum
+M.Tech Fees: ₹1,20,000 - ₹1,50,000 per annum
+Hostel Fees: ₹60,000 - ₹90,000 per year
+
+SCHOLARSHIPS:
+Merit-based Scholarships
+Sports Scholarships
+Cultural Scholarships
+Need-based Financial Aid
+Special Category Scholarships
+Chancellor's Scholarship: 100% fee waiver
+Director's Scholarship: 50% fee waiver
+Merit Scholarship: 25% fee waiver
+EWS Scholarship
+Single Girl Child Scholarship
+Defense Personnel Ward Scholarship
+
+PLACEMENT STATISTICS:
+Placement Rate: 90%+
+Highest Package: ₹52 LPA
+Average Package: ₹5.8 LPA
+Median Package: ₹4.5 LPA
+Total Companies: 325
+New Recruiters: 85
+Top Recruiters: Microsoft, Amazon, Google, TCS, Infosys, Wipro, IBM, Accenture, Capgemini, Cognizant, L&T, Tata Motors, Maruti Suzuki, Biocon, Sun Pharma, Dr. Reddy's, HDFC Bank, ICICI Bank, Deloitte, KPMG
+B.Tech Computer Science Placement: 95% with average ₹7.2 LPA
+MBA Placement: 91.6% with average ₹6.5 LPA
+Placement Support: Dedicated Placement Cell, Pre-placement Training, Mock Interviews, Resume Building Workshops, Industry Interface Programs
+
+INTERNATIONAL COLLABORATIONS:
+Partner Universities: University of Washington, University of Arkansas, University of California Davis, Purdue University, University of Oxford, University of Cambridge, Imperial College London, University of Edinburgh, University of Queensland, University of Melbourne, Technical University of Munich, University of Helsinki, National University of Singapore, Tsinghua University
+International Programs: Student Exchange Programs, Faculty Exchange Programs, Joint Research Projects, Dual Degree Programs, Summer Schools, Winter Schools
+Student Exchange: 200+ students annually
+Faculty Exchange: 50+ faculty annually
+
+RANKINGS AND ACCREDITATIONS:
+QS World University Rankings: #501-510
+QS Asia Rankings: #201-250
+THE World University Rankings: #401-500
+THE Asia Rankings: #201-250
+UI Green Metric: #187 worldwide
+NIRF Overall: #98
+NIRF University: #70
+NIRF Engineering: #45
+NIRF Pharmacy: #28
+NIRF Management: #65
+NAAC Grade: A+ with 3.28/4.0
+NBA Accredited Programs: 6 engineering programs
+
+RESEARCH METRICS:
+Total Publications: 1250
+SCI Publications: 850
+Scopus Indexed: 950
+Citations: 12,500+
+H-index: 45
+i10-index: 120
+International Collaborations: 85 countries
+Research Funding: ₹65 crores
+Completed Projects: 150
+Ongoing Projects: 75
+Patent Portfolio: Indian Patents Filed 650, International Patents 50, Patents Granted 125, Technology Transfer 15, Royalty Income ₹2.5 crores
+
+INFRASTRUCTURE EXPANSION:
+Academic Buildings: Main Academic Block 5 floors, Engineering Block 3 floors, Science Block 4 floors, Management Block 3 floors, Pharmacy Block 3 floors, Law Department 2 floors
+Library Details: Total Area 20,000 sq.ft, Seating Capacity 500 students, Books 1,25,000 volumes, Print Journals 250+, E-Journals 35,000+, Databases 25
+Laboratory Infrastructure: Computer Labs 15 labs 600 computers, Biotechnology Labs 12, Physics Labs 8, Chemistry Labs 10, Engineering Workshops 5, Language Lab, Psychology Lab
+Hostel Details: Boys Hostel 5 blocks 1200 capacity, Girls Hostel 4 blocks 1000 capacity, Room Types Single Double Triple, Amenities Wi-Fi Common TV rooms Reading rooms Gymnasium Indoor games Laundry RO water Solar heating
+Sports Infrastructure: Athletics 400m synthetic track, Swimming Olympic size pool, Indoor Stadium, Cricket ground with pavilion, Football ground, Basketball courts 2, Tennis courts 2, Volleyball courts 4
+
+FACULTY AND STAFF:
+Total Faculty: 450+
+Professor: 85
+Associate Professor: 150
+Assistant Professor: 200
+Visiting Faculty: 25
+International Faculty: 15
+PhD Holders: 95%
+Industry Experience: 60% faculty
+Administrative Staff: 200+
+Technical Staff: 150+
+Support Staff: 300+
+Total Employees: 1100+
+
+ACADEMIC CALENDAR:
+Academic Year Structure: Odd Semester July-December, Even Semester January-June
+Summer Break: 2 weeks in May
+Winter Break: 2 weeks in December
+Admission Process Start: 1st March
+Last Date for Applications: 30th June
+Semester Commencement: 15th July
+Mid-term Exams: September
+End-term Exams: December
+Result Declaration: January
+
+SUPPORT SERVICES:
+Career Development Cell: 15 counselors, Resume Building workshops, Mock Interviews 500+ annually, Group Discussions weekly, Aptitude Training, Soft Skills training
+Psychological Counseling: 5 professional psychologists, Individual counseling, Group therapy, 24/7 mental health support, Stress management workshops
+Medical Facilities: Health Center 10-bed facility, 3 resident doctors, 24/7 ambulance service, Tie-ups with 3 hospitals, Annual health checkups
+
+ENTREPRENEURSHIP DEVELOPMENT:
+Startup Incubation Center: Incubated Startups 25, Funding Provided ₹2 crores, Mentors 30 industry experts, Success Stories 8 profitable startups, Patent Support for student innovations
+Innovation Programs: Hackathons quarterly, Business Plan Competitions annual, Innovation Challenges industry-sponsored, Prototype Funding up to ₹5 lakhs per idea
+
+CONTACT INFORMATION:
+Admission Office: admission@shooliniuniversity.com
+Placement Office: placement@shooliniuniversity.com
+Examination Cell: examination@shooliniuniversity.com
+International Cell: international@shooliniuniversity.com
+Admission Helpline: +91-9805101800
+General Enquiry: +91-1792-308000
+Placement Cell: +91-1792-308002
+Social Media: Facebook /ShooliniUniversity, Twitter @ShooliniUni, Instagram @shooliniuniversity, LinkedIn /company/shoolini-university, YouTube /ShooliniUniversity
+
+LEADERSHIP HIERARCHY:
+Founder & Chancellor: Dr. P.K. Khosla
+Pro Chancellor: Ms. Shivani Bhushan
+Vice Chancellor: Prof. Atul Khosla
+Pro Vice Chancellor: Prof. R.C. Sobti
+Registrar: Dr. R.P. Swami
+Dean Academics: Prof. S.S. Kanwar
+Dean Research: Prof. V.K. Gupta
+Dean Student Welfare: Prof. R.K. Sharma
+Finance Officer: Mr. Anil Gupta
+
+ADMINISTRATIVE STRUCTURE:
+Governing Body: 15 Members
+Academic Council: 25 Members
+Finance Committee: 7 Members
+Board of Management: 12 Members
+Research Advisory Committee: 18 Members
+
+LEGAL FRAMEWORK:
+Establishment Act: Himachal Pradesh Legislative Assembly Act
+UGC Recognition: Under Section 22 of UGC Act 1956
+Approval Date: 2009
+Jurisdiction: Pan-India
+
+This dataset contains comprehensive information about Shoolini University suitable for fine-tuning language models. The data covers institutional details, academic programs, infrastructure, research, placements, and all other aspects of the university.
